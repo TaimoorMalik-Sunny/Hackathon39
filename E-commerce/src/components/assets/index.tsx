@@ -1,0 +1,5 @@
+export {default as heroGirlsimg} from '@/components//assets/images/HeroGirlimg.webp'
+export {default as brand1 } from '@/components/assets/images/brand1.webp'
+export {default as brand2 } from '@/components/assets/images/brand2.webp'
+export {default as brand3 } from '@/components/assets/images/brand3.webp'
+export {default as brand4 } from '@/components/assets/images/brand4.webp'
